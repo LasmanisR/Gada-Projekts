@@ -5,4 +5,4 @@ LCD Displejs uz kura tiks attēloti šādi dati
 * Gaisa temperatūra
 * Gaisa mitrums
 * Spiediens
-* CO2 ar RGB gaismu.
+* CO2
