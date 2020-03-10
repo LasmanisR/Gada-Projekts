@@ -1,4 +1,6 @@
-# Weather-Station
+# Weather Station
+
+# Neliela specifikācija
 LCD Displejs uz kura tiks attēloti šādi dati
 * Pulkstenis/Laiks
 * Datums
