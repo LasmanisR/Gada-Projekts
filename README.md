@@ -25,3 +25,10 @@ Laika apstākļu stacija mājai ar displeju un sensoriem BME280(Temperatūra, mi
 
 # Kods
 # Komponentes
+* Feather Huzzah
+* TTP223(sensora poga)
+* BME280(5V)
+* MH-Z19
+* LCD i2c - Displejs
+* RGB Diode
+* 
