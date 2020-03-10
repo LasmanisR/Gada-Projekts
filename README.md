@@ -1,6 +1,7 @@
 # Weather Station
+[Projekta apraksts](# Projekta apraksts)
 
-# Neliela specifikācija
+# Projekta apraksts
 LCD Displejs uz kura tiks attēloti šādi dati
 * Pulkstenis/Laiks
 * Datums
