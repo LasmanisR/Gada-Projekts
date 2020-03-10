@@ -5,7 +5,7 @@
 * [Komponentes](#Komponentes)
 
 # Projekta apraksts
-Laika apstākļu stacija mājai ar 
+Laika apstākļu stacija mājai ar sensoriem BME280(
 * LCD Displejs uz kura tiks attēloti šādi dati:
   * Pulkstenis/Laiks
   * Datums
