@@ -21,6 +21,6 @@ Laika apstākļu stacija mājai ar displeju un sensoriem BME280(Temperatūra, mi
 * Grafiki, kuros tiks attēloti sensoru mērijumi gan 1h, gan 24h laikā.
 
 # Shēmas
-![](https://github.com/LasmanisR/Weather-Station/blob/master/Sh%C4%93mas/Sh%C4%93ma1.PNG =250x250)
+<img src="https://github.com/LasmanisR/Weather-Station/blob/master/Sh%C4%93mas/Sh%C4%93ma1.PNG" height="300" width="300">
 # Kods
 # Komponentes
