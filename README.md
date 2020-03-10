@@ -31,4 +31,3 @@ Laika apstākļu stacija mājai ar displeju un sensoriem BME280(Temperatūra, mi
 * MH-Z19
 * LCD i2c - Displejs
 * RGB Diode
-* 
