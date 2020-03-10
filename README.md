@@ -5,7 +5,7 @@
 * [Komponentes](#Komponentes)
 
 # Projekta apraksts
-Laika apstākļu stacija mājai ar sensoriem BME280(
+Laika apstākļu stacija mājai ar displeju un sensoriem BME280(Temperatūra, mitrums, spiediens), MH-Z19(CO2).
 * LCD Displejs uz kura tiks attēloti šādi dati:
   * Pulkstenis/Laiks
   * Datums
@@ -21,5 +21,6 @@ Laika apstākļu stacija mājai ar sensoriem BME280(
 * Grafiki, kuros tiks attēloti sensoru mērijumi gan 1h, gan 24h laikā.
 
 # Shēmas
+![]( =250x250)
 # Kods
 # Komponentes
