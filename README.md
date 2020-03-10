@@ -1,5 +1,5 @@
 # Weather Station
-[Projekta apraksts](#Projekta-apraksts)
+* [Projekta apraksts](#Projekta-apraksts)
 
 # Projekta apraksts
 LCD Displejs uz kura tiks attēloti šādi dati
