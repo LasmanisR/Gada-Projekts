@@ -16,7 +16,6 @@
   * Zaļš - Viss labi
   * Dzeltens - Uzmanību
   * Sarkans - Viss slikti
-  
 * Sensora poga kas ļaus pārslēgt režīmus
 
 # Shēmas
